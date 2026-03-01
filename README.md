@@ -54,7 +54,6 @@ gcc -o bst_demo main.c bintree.c mydata.c
 ./bst_demo
 
 
-ーーーーーーーーーーーーーーーーーーーーーーー
 # 🚀 C-Core Algos & Data Structures Portfolio
 
 C言語を用いた授業内成果物および、データ構造のスクラッチ実装から実務的な数理アルゴリズムまでを網羅したプロジェクト集です。
